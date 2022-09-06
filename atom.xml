@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>aChinT</title>
+  
+  
+  <link href="https://acorpsexx.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://acorpsexx.github.io/"/>
+  <updated>2022-09-06T05:21:55.792Z</updated>
+  <id>https://acorpsexx.github.io/</id>
+  
+  <author>
+    <name>zbr</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://acorpsexx.github.io/2022/09/05/hello-world/"/>
+    <id>https://acorpsexx.github.io/2022/09/05/hello-world/</id>
+    <published>2022-09-05T11:29:28.215Z</published>
+    <updated>2022-09-06T05:21:55.792Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to aChinT’s BLOG</p><h2 id="FIRST-POST"><a href="#FIRST-POST" class="headerlink" title="FIRST POST"></a>FIRST POST</h2><pre><code>第一天  粗略搭好了博客</code></pre><p>Contact me: <a href="1241106479@qq.com">email</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to aChinT’s BLOG&lt;/p&gt;
+&lt;h2 id=&quot;FIRST-POST&quot;&gt;&lt;a href=&quot;#FIRST-POST&quot; class=&quot;headerlink&quot; title=&quot;FIRST POST&quot;&gt;&lt;/a&gt;FIRST POST&lt;/h2&gt;&lt;pre&gt;&lt;cod</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
